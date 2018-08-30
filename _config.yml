@@ -1,0 +1,43 @@
+# Site Settings
+title: Ivan Gaal | Zero 2 Gnar
+email: ivan.n.gaal@gmail.com
+description: This is my personal site dedicated to skate trips, photography and video. Orignally started as a pet project, this has evolved into an opporutnity for brands to sponsor content and reach their audiences through influencer marketing / brand ambassador activites.
+baseurl: "/eyevaning.github.io" # the subpath of your site, e.g. /blog
+url: "https://eyevaning.github.io/" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+
+# User Settings
+username: Eyevaning
+user_description: Digital Marketing Manager, skateboarder, photographer and videographer interested in film making, digital marketing, travel and skatebaording.
+disqus_username: eyevanING
+
+# Social Media
+# Remove the item if you don't need it
+github_username: EyevanING
+facebook_username: facebook_username
+twitter_username: twitter_username
+instagram_username: instagram_username
+linkedin_username: ivangaal
+medium_username: medium_username
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+# Plugins
+gems:
+  - jemoji
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Contact
+    url: /contact/
+
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
