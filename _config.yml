@@ -1,7 +1,7 @@
 # Site Settings
-title: Ivan Gaal | Zero 2 Gnar
+title: Ivan Gaal | EyevanING
 email: ivan.n.gaal@gmail.com
-description: This is my personal site dedicated to skate trips, photography and video. Orignally started as a pet project, this has evolved into an opporutnity for brands to sponsor content and reach their audiences through influencer marketing / brand ambassador activites.
+description: This is my personal site dedicated to documenting skate trips, photography, video and all things EyevanING. 
 baseurl: "/eyevaning.github.io" # the subpath of your site, e.g. /blog
 url: "https://eyevaning.github.io/" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"

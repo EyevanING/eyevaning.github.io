@@ -9,9 +9,4 @@ permalink: /about/
 
 ## About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Skateboarder, developer, designer, photographer/videographer and guitarist located in the San Francisco Bay Area. As a digital marketing professional, I enjoy exercising and developing my skillset through projects that revolve around things I am passionate about. Hope you enjoy the content on my site, please leave a comment, or if you're inclined to do so, buy me a beer.
