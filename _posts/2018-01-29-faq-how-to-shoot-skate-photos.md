@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "FAQ: How to Shoot Skate Photos that Don't Suck"
-date: 2017-07-29 13:24:49
+date: 2018-01-29 13:24:49
 image: 'https://eyevaning.github.io/assets/img/Jacob.jpg'
 description: How to shoot better skate photos.
 category: 'Photography'
@@ -13,13 +13,13 @@ twitter_text: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 introduction: Learn the techniques I use when shooting skate photos.
 ---
 
-It's indisputable that skate moves carry a certain aesthetic that's hard to come by. Rivaled by that of only a polished dancer, a perfect kickflip creates line aesthetics that brigthen even the darkest urban surrounding. A well shot photo transforms a moment of risk, skill and triumph into a work of art. What's even more intriquing is that much in the same way that music cannot exist without time, a great skate photo cannot come from just one person; but rather a perfect blend of synergy required between the skater, photographer, the spot, and the lighting conditions.
+It's indisputable that skate moves carry a certain aesthetic that's hard to come by. Rivaled by that of only a polished dancer, a perfect kickflip creates line aesthetics that brighten even the darkest urban surrounding. A well shot photo transforms a moment of risk, skill and triumph into a work of art. What's even more intriguing is that much in the same way that music cannot exist without time, a great skate photo cannot come from just one person; but rather a perfect blend of synergy required between the skater, photographer, the spot, and the lighting conditions.
 
 I've loved shooting skate photos ever since I could get my grubby little hands on a camera as a kid, but what I quickly discovered is that it's not as easy as it seems.
 
 > The best piece of advice I can give an aspiring skate photographer is to buy a flash. Actually buy at least 2.
 
-The biggest mistake I see people make in shooting skateboarding is not getting enough light. Sure, if it's golden hour and there's an epic sunset over the horizon, you can get away with a sillouette shot and go home happy. However, what about when your cramped up in some dirty alley in the city with no direct light while your homie is dropping bangers? You going to boost your open up your aperature and boost your ISO and hope for the best?  No. You need to buy flashes, and ones that are capable of high speed syncing. 
+The biggest mistake I see people make in shooting skateboarding is not getting enough light. Sure, if it's golden hour and there's an epic sunset over the horizon, you can get away with a silhouette shot and go home happy. However, what about when your cramped up in some dirty alley in the city with no direct light while your homie is dropping bangers? You going to boost your open up your aperture and boost your ISO and hope for the best?  No. You need to buy flashes, and ones that are capable of high speed syncing.
 
 They're cheap, and IMO definitely the most bang for your buck when it comes to new gear. Compare the below photo taken on a kit lens WITH a flash, and the same shot taken on an L lens WITHOUT a flash. Yea, without enough light surroudning your subject, a $1200 lens ain't gonna do shit!
 
@@ -134,5 +134,3 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 -----
 
 Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
-
-
